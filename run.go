@@ -8,7 +8,7 @@ func init()  {
 
 func Run()  {
 	var run int
-	run = 1
+	run = 0
 	if run != 1 {
 		os.Exit(0)
 	}
