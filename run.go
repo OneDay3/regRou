@@ -2,6 +2,10 @@ package beeRegRou
 
 import "os"
 
+func init()  {
+	Run()
+}
+
 func Run()  {
 	var run int
 	run = 1
